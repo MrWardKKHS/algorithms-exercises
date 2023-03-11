@@ -14,7 +14,7 @@
 */
 
 function insertionSort(nums) {
-  // code goes here
+  for (let i=0; i<)
 }
 
 // unit tests
